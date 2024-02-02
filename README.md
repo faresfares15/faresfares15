@@ -1,16 +1,30 @@
 Hi 👋 My name is Fares
 ======================
 
-Full stack/mobile developer 🧑‍💻
+`Full stack/mobile developer` 🧑‍💻
 ---------------------------------
+
+<table style="border: none;">
+<tr>
+<td style="border: none;">
 
 Reactful in every single way ⚛
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [aoufar.f@gmail.com](mailto:aoufar.f@gmail.com)
 * 🧠  I'm learning More cool stuff about the react ecosystem, ML
-* 🤝  I'm open to collaborating on web(front-end, back-end ,full-stack) and mobile projects
+* 🤝  I'm open to collaborating on web and mobile projects
 * ⚡  Gym rat 🏋🏻‍♀️
+
+</td>
+
+<td style="border: none;">
+
+![React Animation](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
+
+</td>
+</tr>
+</table>
 
 ### Skills
 
