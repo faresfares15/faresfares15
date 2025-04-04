@@ -10,7 +10,7 @@ Hi 👋 My name is Fares
 
 Reactful in every single way ⚛
 
-* 🌍  I'm based in Algeria
+* 🌍  I'm based in Paris
 * Ambassador at [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors)
 * ✉️  You can contact me at [aoufar.f@gmail.com](mailto:aoufar.f@gmail.com)
 * 🧠  I'm learning More cool stuff about the react ecosystem, ML
